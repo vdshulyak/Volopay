@@ -1,4 +1,4 @@
-# VOLOPAY
+![aaa](https://github.com/vdshulyak/Volopay/blob/main/Volopay%20Logo.PNG)
 
 ## Overview and Origin
 Volopay is a company in Payment/Billing industry of FinTech. Volopay was founded in 2019 by CEO Rajith Shaji and CTO Rajesh Raikwar. 
