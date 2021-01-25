@@ -7,7 +7,7 @@ Founders were working together at a company that provided financial services com
 ## Business Activities:
 Volopay streamlines processing of expenses  incurred by employees of its clients. Company provides corporate cards, credit, money transfers,
  expense reimbursements, and automated accounting—all in one platform. 
-Volopay's intended customers are companies in Asia-Pacific Region that have employees whose expenses they reimburse.
+Volopay's intended customers are small to medium-sized companies in Asia-Pacific Region that do a lot of international business and  that have employees whose expenses they reimburse. The company's product minimizes foreign exchange fees and helps traking corporate expenses.
  More than a hundred of companies started using Volopay’s product in Singapore since 2019.
 According to Finextra website “Volopay offers everything businesses need to operate digitally and accelerate their growth; 
 business accounts, corporate cards, money transfers, expense tracking, subscription management and accounting all in one single platform.” 
@@ -20,3 +20,4 @@ Currently Volopay syncs with Xero, Quickbooks, and Netsuite. I suggest that it a
 ## Cited Sources: 
 ### Finextra https://www.finextra.com/pressarticle/85752/singapores-volopay-raises-21m
 ### Volopay Official Website https://www.volopay.co/
+### Techcrunch https://techcrunch.com/2020/07/30/singapore-based-volopay-wants-to-be-the-brex-of-southeast-asia/
